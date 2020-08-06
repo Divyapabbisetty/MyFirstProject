@@ -1,2 +1,3 @@
-angularjs-googlemaps-sample
+my First project
+
 ===========================
